@@ -1,5 +1,5 @@
 # Industrial Engineer | Electronics and Automation | Keen on Engineering and Industry 4.0
-
+![Profile Pic](/assets/profile.jpg)
 #### Technical Skills: Python, MATLAB, ROS2
 
 ## Education						       		
