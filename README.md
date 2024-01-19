@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MATLAB, ROS2
 
 ## Education						       		
-- M.S., Industrial Engineering	| The University of Texas at Dallas (_June 2024_)	 			        		
+- M.S., Industrial Engineering	| Universidad Pontificia Comillas (_June 2024_)	 			        		
 - B.S., Industrial Engineering | Universidad Pontificia Comillas (_June 2022_)
 
 ## Work Experience
@@ -13,5 +13,3 @@
 ## Projects
 ### Autonomous Sailboat
 Participated in the development of an autonomous sailboat for my senior design project at UIUC. I was in charge of the PCB design and I assisted in the control system design. The team was awarded for outstanding engineering.
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
